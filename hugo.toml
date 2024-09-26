@@ -1,0 +1,8 @@
+baseURL = 'https://vishap.oberon.am/'
+languageCode = 'en-us'
+title = 'Vishap Oberon Handbook'
+
+
+[module]
+[[module.imports]]
+path = 'github.com/alex-shpak/hugo-book'
